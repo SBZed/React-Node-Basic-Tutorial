@@ -132,3 +132,5 @@ D:\MERN\react_node_app\api> npm start
 ```sh
 PS D:\MERN\react_node_app\client> npm start
 ```
+
+![final result](./final_result.png)
