@@ -1,5 +1,12 @@
 # Create React and Node application
 
+1. Create React client application
+2. Create Express backend application
+3. Create API Controller in backend
+4. Utilize API in front-end react
+5. CORS Policy (Cross Origin Resource Sharing)
+6. Finally run both client and api folder
+
 ### 1. Create React client application
 
 1. create frontend folder name "client"
@@ -8,7 +15,7 @@
 npx create-react-app client
 ```
 
-2. Start frontend applicatino
+2. Start frontend application
 
 ```sh
 npm start
